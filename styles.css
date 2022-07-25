@@ -1,8 +1,21 @@
 .jumbotron {
     margin: 3% auto;
     margin-left: 30%;
+    
   }
   
+  body{
+    background-color: lightgray;
+  }
+
+  button{
+    width: 100px;
+    height: 30px;
+    font-size: medium;
+  }
+  button:hover{
+    background-color: lightblue; 
+  }
   td {
     height:150px;
     width:150px;
@@ -13,4 +26,9 @@
   
   table {
     margin: auto auto;
+  }
+
+  p{
+    font-size: 30px;
+    color: red;
   }
