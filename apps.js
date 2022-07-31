@@ -104,4 +104,5 @@ const resetBoard = () => {
     // sets the innerHTML to null to replace the "X" or "O"
     squares[i].innerHTML = null
   }  
+  squares[0].innerHTML = "X"
 }
