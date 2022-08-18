@@ -5,7 +5,8 @@
   }
   
   body{
-    background-color: lightgray;
+    
+    background-image: url(https://i.stack.imgur.com/jGlzr.png);
   }
 
   button{
@@ -16,6 +17,7 @@
   button:hover{
     background-color: lightblue; 
   }
+ 
   td {
     height:150px;
     width:150px;
@@ -30,5 +32,41 @@
 
   p{
     font-size: 30px;
-    color: red;
+    color: greenyellow;
   }
+
+  h1 {
+    color: white;
+  }
+
+  #top-left {
+    background-image: url("https://miro.medium.com/max/800/0*JUUIaKYvIBQq9p9y.jpg");
+  }
+
+  #top-middle {
+    background-image: url("https://coolbackgrounds.io/images/unsplash/anders-jilden-medium-5d01610e.jpg");
+    }
+
+  #top-right {
+    background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg");
+  }
+
+  #mid-left{
+    background-image: url("https://images.template.net/wp-content/uploads/2016/05/19142659/BEACH-RESORT-SUNSET-Cool-Backgrounds.jpg");
+  }
+  #mid-middle{
+    background-image: url("https://miro.medium.com/max/800/0*JUUIaKYvIBQq9p9y.jpg");
+  }
+  #mid-right{
+    background-image: url("https://coolbackgrounds.io/images/unsplash/anders-jilden-medium-5d01610e.jpg");
+  }
+  #bt-left{
+    background-image: url("https://images.template.net/wp-content/uploads/2016/05/19142659/BEACH-RESORT-SUNSET-Cool-Backgrounds.jpg");
+  }
+  #bt-middle{
+    background-image: url("https://miro.medium.com/max/800/0*JUUIaKYvIBQq9p9y.jpg");
+  }
+  #bt-right{
+    background-image: url("https://miro.medium.com/max/800/0*JUUIaKYvIBQq9p9y.jpg");
+  }
+
